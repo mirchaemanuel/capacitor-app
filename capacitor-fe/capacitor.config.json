@@ -1,0 +1,10 @@
+{
+  "appId": "org.dev2geek.capacitor.fe",
+  "appName": "capacitor-fe",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    }
+  }
+}
